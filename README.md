@@ -2,7 +2,10 @@
 
 A motion-triggered security camera built on an **ESP32-CAM** and an **HC-SR501 PIR sensor**. When motion is detected, the device takes a photo and sends it to your Telegram chat. You can also control it remotely with bot commands.
 
-<!-- TODO: add a photo of the finished device and a short demo GIF or video link here -->
+**Demo:**
+https://github.com/user-attachments/assets/68229d9c-8fee-44e3-b5d7-81cfdad2a329
+
+
 
 ## Features
 
