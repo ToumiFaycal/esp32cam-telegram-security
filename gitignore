@@ -1,0 +1,9 @@
+# Credentials - never commit
+secrets.h
+
+# Build artifacts
+build/
+*.bin
+*.elf
+*.map
+.DS_Store
